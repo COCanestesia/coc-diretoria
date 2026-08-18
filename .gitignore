@@ -1,0 +1,5 @@
+.streamlit/
+venv/
+.venv/
+teste_json.py
+analise_xml.py
